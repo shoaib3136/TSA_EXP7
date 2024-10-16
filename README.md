@@ -73,7 +73,7 @@ plt.show()
 
 #### GIVEN DATA:
 ![alt text](image-1.png)
-#### PACF - ACF:
+#### ACF - PACF:
 ![alt text](image.png)
 
 #### PREDICTION:
